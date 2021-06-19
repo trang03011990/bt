@@ -1,0 +1,37 @@
+/* header  */
+.logo{
+    width: 9%;
+}
+#head{
+    color: white;
+    background: red;
+    font-size: 250%;
+}
+/* menu  */
+#menu{
+    list-style: none;
+    padding-left: 0;
+    font-size: 200%;
+}
+/* introduction */
+.introduction{
+    background: brown;
+    color: white;
+    font-size: 180%;
+}
+p{
+    text-align: justify;
+}
+/* development */
+.development{
+    background: brown;
+    color: white;
+    font-size: 180%;
+}
+/* price  */
+table{
+    width: 70%;
+}
+td,th{
+    height: 50px
+}
